@@ -1,0 +1,49 @@
+/* ****** layout styles **** */
+.container {
+  color: #444;
+  margin: 0 auto;
+}
+
+/* center the container on large screens and apply background */
+@media only screen and (min-width: 960px) {
+  body {
+    background-color: #ddd;
+  }
+
+  .container {
+    background-color: #fff;
+    border: 1px solid #666;
+    padding: 1em;
+    width: 80%;
+  }
+}
+
+/* center text in header and footer */
+.container > footer, .container > header {
+  text-align: center;
+}
+
+/* ensure links have a color that matches theme */
+.container a { color: #333; }
+.container a:hover { color: #999; }
+.container a:visited { color: #999; }
+
+/* bhogan */
+/* builds on base styles */
+body#bhogan {
+  font-family: 'Lora', 'Times New Roman', serif;
+}
+
+body#bhogan .media a {
+  color: #333;
+  margin: 0.5em;
+  text-decoration: none;
+}
+
+body#bhogan h1 {border-bottom: 1px solid #666; }
+body#bhogan article h2 {font-size: 1.25em }
+
+/* add some indentation to articles on wider screens */
+@media only screen and (min-width: 960px) {
+  body#bhogan article {margin-left: 1em; }
+}
