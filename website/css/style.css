@@ -28,22 +28,22 @@
 .container a:hover { color: #999; }
 .container a:visited { color: #999; }
 
-/* bhogan */
+/* banderson */
 /* builds on base styles */
-body#bhogan {
+body#banderson {
   font-family: 'Lora', 'Times New Roman', serif;
 }
 
-body#bhogan .media a {
+body#banderson .media a {
   color: #333;
   margin: 0.5em;
   text-decoration: none;
 }
 
-body#bhogan h1 {border-bottom: 1px solid #666; }
-body#bhogan article h2 {font-size: 1.25em }
+body#banderson h1 {border-bottom: 1px solid #666; }
+body#banderson article h2 {font-size: 1.25em }
 
 /* add some indentation to articles on wider screens */
 @media only screen and (min-width: 960px) {
-  body#bhogan article {margin-left: 1em; }
+  body#banderson article {margin-left: 1em; }
 }
