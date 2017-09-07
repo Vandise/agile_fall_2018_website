@@ -47,3 +47,36 @@ body#banderson article h2 {font-size: 1.25em }
 @media only screen and (min-width: 960px) {
   body#banderson article {margin-left: 1em; }
 }
+
+body#jfellows {
+  background-color: #FFF;
+  color: #2E0000;
+  font-family: Arial, Helvitca Neue, Helvitca, sans-serif;
+}
+
+body#jfellows h1 {
+  background-color:#ccc;
+  height: 40px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+body#jfellows h3 {
+  width: 375px;
+  text-transform: uppercase;
+  background-color:#fff;
+  font-size:1.2em;
+  padding: 5px 0 5px 0;
+}
+
+body#jfellows footer a {
+  text-align: left;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+body#jfellows wrapper {
+	margin-left: 300px;
+	width: 60%;
+}
+
