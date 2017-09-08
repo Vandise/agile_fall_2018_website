@@ -4,6 +4,11 @@
   margin: 0 auto;
 }
 
+.coreyLeavitt {
+  background: green;
+  color: blue;
+}
+
 /* center the container on large screens and apply background */
 @media only screen and (min-width: 960px) {
   body {
@@ -47,6 +52,7 @@ body#banderson article h2 {font-size: 1.25em }
 @media only screen and (min-width: 960px) {
   body#banderson article {margin-left: 1em; }
 }
+
 
 body#jfellows {
   background-color: #FFF;
