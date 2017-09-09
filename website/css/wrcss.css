@@ -1,0 +1,95 @@
+body{
+    margin: auto;
+}
+.box{
+  width:64rem;
+  height:100%;
+  box-shadow: 1px 1.5px 1px #000;
+  background:#ff9900;
+    margin: auto;
+    
+}
+a:link{
+    text-decoration: none;
+}
+h1{
+    text-shadow: 1px 1px 1px blue;
+    color: aqua;
+    text-align: center;
+    font-size: 4rem;
+}
+section{
+    margin: 3rem 4rem;
+    text-align: center;
+    font-size: 2rem;
+    text-transform:uppercase;
+    box-shadow: 3px 7px 4px lime;
+        text-decoration: none;  
+    color: whitesmoke
+}
+section:hover{
+    box-shadow: none;
+    cursor: pointer;
+}
+#one{
+  width:12rem;
+  height:12rem;
+  background:blue;
+  float:left;
+    border: 1px solid black;
+    padding: 0;
+    margin: auto;
+    display: block;
+    margin-left: 4rem;
+}
+#two{
+  width:15rem;
+  height:13rem;
+  background:green;
+  float:left;
+}
+#three{
+  width:15rem;
+  height:10rem;
+  background:yellow;
+  float:left;
+     text-align: center;
+    font-size: 2rem;
+    text-transform:uppercase;
+    box-shadow: 3px 7px 4px lime;
+}
+a:hover>#three{
+    color: blueviolet;
+    box-shadow: none;
+}
+#four{
+  width:11rem;
+  height:10rem;
+  background:purple;
+  float:left;
+    clear: both;
+     text-align: center;
+    font-size: 2rem;
+    text-transform:uppercase;
+    box-shadow: 3px 7px 4px lime;
+}
+a:hover>#four{
+    color: whitesmoke;
+    box-shadow: none;    
+}
+a:link>#four{
+    color: whitesmoke;
+}
+
+#five{
+  width:12rem;
+  height:12rem;
+  background:red;
+  float:left;
+}
+#six{
+  width:15rem;
+  height:10rem;
+  background:turquoise;
+  float:left;
+}
