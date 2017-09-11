@@ -1,0 +1,33 @@
+ body {
+ 	color: white;
+ 	background: black;
+  margin: 0 auto;
+  text-align: center;
+ }
+ 
+ a {
+ 	color: white;
+ 	text-decoration: none;
+ 	padding: 0 5rem 0 5rem;
+ }
+ 
+ h1 {
+ 	text-align: center;
+  border: medium solid white;
+ }
+
+p {
+  width: 50%;
+  margin: 0 auto;
+}
+ 
+ul  {
+ 	text-align: center;
+ 	border: medium dashed white;
+ }
+ 
+ a:hover {
+ 	color: black;
+ 	background: white;
+ 	text-decoration: none;
+ }
