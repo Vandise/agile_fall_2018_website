@@ -4,6 +4,11 @@
   margin: 0 auto;
 }
 
+.coreyLeavitt {
+  background: green;
+  color: blue;
+}
+
 /* center the container on large screens and apply background */
 @media only screen and (min-width: 960px) {
   body {
@@ -46,4 +51,56 @@ body#banderson article h2 {font-size: 1.25em }
 /* add some indentation to articles on wider screens */
 @media only screen and (min-width: 960px) {
   body#banderson article {margin-left: 1em; }
+}
+
+body#jfellows {
+  background-color: #FFF;
+  color: #2E0000;
+  font-family: Arial, Helvitca Neue, Helvitca, sans-serif;
+}
+
+body#jfellows h1 {
+  background-color:#ccc;
+  height: 40px;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+body#jfellows h3 {
+  width: 375px;
+  text-transform: uppercase;
+  background-color:#fff;
+  font-size:1.2em;
+  padding: 5px 0 5px 0;
+}
+
+body#jfellows footer a {
+  text-align: left;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+#jfwrapper {
+	margin-left: 300px;
+	width: 60%;
+}
+
+/* chelsey's individual styles */
+body#cfay {
+  font-family: 'Fondamento', cursive;
+  background-color:red; 
+  color:white;
+}
+
+body#cfay h1 {
+  color:black;
+  border:1px solid #000;
+}
+
+body#cfay .titles {
+  font-size: medium;
+}
+
+body#cfay .footer{
+  color:white;
 }
