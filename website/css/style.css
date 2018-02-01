@@ -104,3 +104,19 @@ body#cfay .titles {
 body#cfay .footer{
   color:white;
 }
+
+#sschalinske ul {
+    list-style-type: none;
+}
+
+#sschalinske .summary {
+    text-align: left;
+    width: 900px;
+    margin: auto;
+}
+
+#sschalinske .experience ul {
+    text-align: left;
+    width: 650px;
+    margin: auto;
+}
