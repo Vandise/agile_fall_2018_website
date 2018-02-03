@@ -105,6 +105,14 @@ body#cfay .footer{
   color:white;
 }
 
+body#msargeant h1 {
+  font-family: 'Domine', serif;
+}
+
+body#msargeant h2 {
+  font-family: 'Quattrocento', serif;
+}
+
 #sschalinske ul {
     list-style-type: none;
 }
