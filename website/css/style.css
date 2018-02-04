@@ -9,6 +9,8 @@
   color: blue;
 }
 
+
+
 /* center the container on large screens and apply background */
 @media only screen and (min-width: 960px) {
   body {
@@ -88,7 +90,7 @@ body#jfellows footer a {
 /* chelsey's individual styles */
 body#cfay {
   font-family: 'Fondamento', cursive;
-  background-color:red; 
+  background-color:red;
   color:white;
 }
 
@@ -128,3 +130,24 @@ body#msargeant h2 {
     width: 650px;
     margin: auto;
 }
+
+body#dkurschner1 > .container{
+    border-radius: 5px;
+    background: rgb(118, 100, 156);
+    box-shadow: 5px 5px 5px #817C8A;
+  }
+
+  body#dkurschner1 .inner{
+      margin-bottom: 10px;
+      border-radius: 5px;
+      padding-top: 5px;
+      padding-bottom: 5px;
+      padding-left: 20px;
+      padding-right: 20px;
+      background: rgb(200, 192, 218);
+      box-shadow: 5px 5px 5px #817C8A;
+    }
+
+  body#dkurschner1{
+      color: #1C1628;
+    }
