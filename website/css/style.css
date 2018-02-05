@@ -104,3 +104,19 @@ body#cfay .titles {
 body#cfay .footer{
   color:white;
 }
+
+
+/* speterson96's individual styles */
+body #speterson96 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    
+}
+
+body #speterson96 footer {
+    
+    border: 1px solid white;
+    padding: 10px;
+    
+}
