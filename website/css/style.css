@@ -115,6 +115,18 @@ body#msargeant h2 {
   font-family: 'Quattrocento', serif;
 }
 
+/* speterson96's individual styles */
+body #speterson96 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+body #speterson96 footer {
+    border: 1px solid white;
+    padding: 10px;
+}
+
 #sschalinske ul {
     list-style-type: none;
 }
@@ -151,3 +163,4 @@ body#dkurschner1 > .container{
   body#dkurschner1{
       color: #1C1628;
     }
+
