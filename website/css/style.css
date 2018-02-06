@@ -115,6 +115,19 @@ body#msargeant h2 {
   font-family: 'Quattrocento', serif;
 }
 
+
+/* speterson96's individual styles */
+body #speterson96 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+
+body #speterson96 footer {
+    border: 1px solid white;
+    padding: 10px;
+}
+
 #sschalinske ul {
     list-style-type: none;
 }
@@ -151,3 +164,16 @@ body#dkurschner1 > .container{
   body#dkurschner1{
       color: #1C1628;
     }
+
+#atanner6 > .container{
+    color:#ff5d05;
+    background-color:#202020;
+    text-decoration:none;
+    box-shadow: 1px 1px 15px #121212, inset 0 0 30px #454545;
+}
+#atanner6 > .container  ul{
+    list-style-type:none;
+}
+
+
+
