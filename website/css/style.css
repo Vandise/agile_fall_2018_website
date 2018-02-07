@@ -9,6 +9,67 @@
   color: blue;
 }
 
+#collin li{
+    list-style: none;
+}
+
+#collin header{
+    margin-bottom: 2rem;
+}
+
+#collin .nav{
+    text-align: center;
+    margin: 0 auto;
+    width: 90%;
+    background: darkgrey;
+    height: .5rem;
+}
+
+#collin .nav a{
+    margin: 0 auto;
+    color: white;
+    text-decoration: none;
+    padding: .4em .6em;
+    background: #aB0000;
+    border: .5rem solid;
+    width:100%;
+}
+
+#collin .nav a:hover{
+    background: #4f0000;
+}
+
+
+#collin .summary p{
+    text-indent: 1rem;
+    margin-left: .5rem
+}
+
+#collin #content{
+    width:80%;
+    margin: 0 auto 0;
+}
+
+#collin #content section{
+    width: 90%;
+    margin: .5rem 0;
+    border: solid;
+    padding: 0 5%;
+    background-color: azure
+}
+
+#collin section h2{
+    margin: .5rem auto;
+    border-bottom: solid;
+    width: 105.5%;
+    text-indent: 1rem;
+}
+
+#collin footer{
+    width: 100%;
+    margin: 1rem 0 1rem;
+}
+
 /* center the container on large screens and apply background */
 @media only screen and (min-width: 960px) {
   body {
