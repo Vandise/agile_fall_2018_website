@@ -176,4 +176,13 @@ body#dkurschner1 > .container{
 }
 
 
+#byang32 div {
+    background-color: black;
+    box-shadow: 5px 10px #888888;
+    color: #ffffff;
+    padding: 30px;
+}
 
+#byang32 h1, h2, h3 {
+    color: #f4cd41;
+}
