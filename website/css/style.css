@@ -195,3 +195,12 @@ body#dkurschner1 > .container{
     color: #f4cd41;
 }
 >>>>>>> f9578f82832ab1703606570b52b6be02414bc5c8
+/* wramirez's individual styles */
+body#ramirez h1 {
+    box-shadow: 0 1px 2px #666;
+    border-bottom: 2px solid #666; 
+    font-family: Arial, Helvetica, sans-serif; 
+  }
+body#ramirez article h2 {
+  font-size: 1.5em; 
+  }
