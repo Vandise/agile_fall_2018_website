@@ -115,10 +115,7 @@ body#msargeant h2 {
   font-family: 'Quattrocento', serif;
 }
 
-<<<<<<< HEAD
-=======
 
->>>>>>> fb05719407e47915b44fa361e3bcb6f1f9e3eeec
 /* speterson96's individual styles */
 body #speterson96 {
     font-family: Arial, Helvetica, sans-serif;
@@ -168,8 +165,7 @@ body#dkurschner1 > .container{
       color: #1C1628;
     }
 
-<<<<<<< HEAD
-=======
+
 #atanner6 > .container{
     color:#ff5d05;
     background-color:#202020;
@@ -188,13 +184,11 @@ body#dkurschner1 > .container{
     padding: 30px;
 }
 
-<<<<<<< HEAD
->>>>>>> fb05719407e47915b44fa361e3bcb6f1f9e3eeec
-=======
+
 #byang32 h1, h2, h3 {
     color: #f4cd41;
 }
->>>>>>> f9578f82832ab1703606570b52b6be02414bc5c8
+
 /* wramirez's individual styles */
 body#ramirez h1 {
     box-shadow: 0 1px 2px #666;
@@ -204,3 +198,10 @@ body#ramirez h1 {
 body#ramirez article h2 {
   font-size: 1.5em; 
   }
+=======
+
+
+body#xxiong4 {
+    background: grey;
+}
+
